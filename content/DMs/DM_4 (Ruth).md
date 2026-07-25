@@ -1,0 +1,1 @@
+Ruth es el DM_4, esta encargada de unos [[NPC]] en el pueblo inicial, además del circo llamado [[Invernadero Andante]] , es la persona encargada de las dinámicas de los [[Pikmin]] y su incorporación a la campaña

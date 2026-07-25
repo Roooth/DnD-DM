@@ -1,0 +1,1 @@
+Local de [[Luminoma]] aka. el adivino Pikmin
