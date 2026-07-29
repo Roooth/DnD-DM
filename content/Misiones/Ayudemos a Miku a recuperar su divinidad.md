@@ -9,7 +9,7 @@ Ayuda a la actual Miku a restaurar su divinidad en su máximo esplendor
 **Opción C: Cumple la Profecía y recupera a Miku**
 - Encuentra al Pikmin bendecido por la diosa Miku y completa el ritual, de equivocarte quemaras un Pikmin inocente :D 
 ## Prerrequisitos
-- Tener nivel 10
+- Tener nivel 10 
 
 ## Requisitos de la misión
 - Derrotar a Juan 

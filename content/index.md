@@ -1,14 +1,12 @@
 ---
-title: Bienvenido a DnD 4 DM
+title: Un vistazo a los DMs
 ---
 ---
 
-> [!info]
-> Esta es la biblioteca de conocimiento de **La Campaña**
->
-> Aquí se encuentran registrados los lugares, personajes, historias y secretos que forman parte de este mundo.
->
-> Algunas páginas contienen únicamente información conocida por los habitantes del mundo, mientras que otras guardan secretos que solo el DM conoce.
+> [!info] Sobre DnD 4 DM
+>**DnD 4 DM** es el rincón donde cuatro DMs se juntaron para construir **La Campaña**: un mundo lleno de lugares, personajes, historias, secretos y decisiones que poco a poco han ido tomando forma alrededor de nuestra mesa.
+>Aquí encontrarás todo lo que hemos ido creando para darle vida a este mundo.
+>Bienvenidos al otro lado de la pantalla.
 
 ---
 
