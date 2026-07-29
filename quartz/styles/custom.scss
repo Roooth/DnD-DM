@@ -7,17 +7,32 @@
    ========================================= */
 
 :root[saved-theme="light"] {
-  --folder-main: #D8B06A;
-  --folder-hover: #C99545;
+  --folder-main: #faf1c6;
+  --folder-hover: #eee2b1;
   --folder-text: #3B3025;
+
+  /* Texto nivel 1 */
+  --folder-title: #3B3025;
+  --folder-title-hover: #f23729;
+
+  /* Texto niveles 2+ */
+  --folder-subtitle: #6b6258;
+  --folder-subtitle-hover: #c74d4d;
 }
 
 :root[saved-theme="dark"] {
   --folder-main: #3C3836;
   --folder-hover: #504945;
   --folder-text: #EBDBB2;
-}
 
+  /* Texto nivel 1 */
+  --folder-title:#f7473a ; 
+  --folder-title-hover: #EBDBB2;
+
+  /* Texto niveles 2+ */
+  --folder-subtitle: #c8bda8;
+  --folder-subtitle-hover: #c74d4d;
+}
 /* =========================================
    DnD 4 DM — Explorer
    ========================================= */
@@ -135,7 +150,7 @@
   );
 
   background: var(--folder-main) !important;
-color: var(--folder-text);
+  color: var(--folder-text);
 
   transition:
     transform 180ms ease,
@@ -180,26 +195,38 @@ color: var(--folder-text);
 
 
 /* =========================================
-   TÍTULO
+   TÍTULO NIVEL 1
    ========================================= */
 
 .explorer > .explorer-content > ul > li
 > .folder-container
 > div > .folder-button .folder-title {
 
+  font-family: "Staatliches", sans-serif;
+
+  color: var(--folder-title) !important;
+
   text-align: center;
-  font-weight: 600;
+  font-weight: 700;
 
-  /* Mantener siempre una sola línea */
   white-space: nowrap;
-
-  /* No permitir que el texto rompa el diseño */
   overflow: hidden;
   text-overflow: ellipsis;
 
-  /* El texto puede ocupar el espacio disponible */
   max-width: 100%;
+
+  transition: color 150ms ease;
 }
+
+/* Hover nivel 1 */
+
+.explorer > .explorer-content > ul > li
+> .folder-container:hover
+> div > .folder-button .folder-title {
+
+  color: var(--folder-title-hover) !important;
+}
+
 
 
 /* =========================================
@@ -336,6 +363,8 @@ color: var(--folder-text);
   box-shadow:
     0 0 5px currentColor;
 }
+
+
 /* =========================================
    NIVEL 2+
    ========================================= */
@@ -388,21 +417,31 @@ color: var(--folder-text);
 .explorer .folder-outer .folder-container
 > div > .folder-button .folder-title {
 
+  font-family: "Hammersmith One", sans-serif;
+
+  color: var(--folder-subtitle) !important;
+
   text-align: left;
 
-  /* Más ligero que el nivel 1 */
-  font-weight: 550;
+  font-weight: 200;
 
-  /* Siempre una sola línea */
   white-space: nowrap;
 
-  /* Si es demasiado largo, no rompe el layout */
   overflow: hidden;
   text-overflow: ellipsis;
 
   max-width: 100%;
-}
 
+  transition: color 150ms ease;
+}
+/* Hover niveles inferiores */
+
+.explorer .folder-outer .folder-container
+> div > .folder-button:hover
+> .folder-title {
+
+  color: var(--folder-subtitle-hover) !important;
+}
 
 /* =========================================
    HOVER NIVELES INFERIORES
@@ -415,6 +454,7 @@ color: var(--folder-text);
 
   background: rgba(255, 255, 255, 0.04) !important;
 }
+
 
 /* =========================================
    TAGS — EN UNA SOLA LÍNEA / WRAP
@@ -432,6 +472,7 @@ color: var(--folder-text);
   /* Evita que el navegador lo parta */
   break-inside: avoid;
 }
+
 
 /* =========================================
    HIGHLIGHT — POR MODO
@@ -466,87 +507,90 @@ mark {
   --dnd-accent: #d8a657;
 }
 
+
 /* =========================================
-   FONDO DE LINKS INTERNOS
+   LINKS INTERNOS — VARIABLES POR MODO
    ========================================= */
+
+/*
+ * Aquí se separan claramente:
+ *
+ * --link-color       = texto normal
+ * --link-hover       = texto al pasar el mouse
+ * --link-bg          = marcatexto/fondo
+ * --link-bg-hover    = marcatexto/fondo al pasar el mouse
+ * --link-broken      = links a páginas inexistentes
+ */
 
 :root[saved-theme="light"] {
-  --dnd-link-bg: rgba(224, 200, 146, 0.473);
+  /* Texto */
+  --link-color: #262928;
+  --link-hover: #8a4441;
+
+  /* Marcatexto / fondo */
+  --link-bg: rgba(249, 200, 146, 0.473);
+  --link-bg-hover: rgba(224, 200, 146, 0.473);
+
+  /* Link roto */
+  --link-broken: #8f8f8f;
+  --link-broken-hover: #B8A894;
 }
 
 :root[saved-theme="dark"] {
-  --dnd-link-bg: rgba(231, 220, 197, 0.678);
+  /* Texto */
+  --link-color: #f8edbf;
+  --link-hover: #a84f4b;
+
+  /* Marcatexto / fondo */
+  --link-bg: rgba(249, 102, 112, 0.863);
+  --link-bg-hover: rgb(249, 102, 112);
+
+  /* Link roto */
+  --link-broken: #666666;
+  --link-broken-hover: #B8A894;
 }
 
-a.internal-link {
-  background-color: var(--dnd-link-bg) !important;
-}
 
 /* =========================================
-   LINKS — DnD 4 DM
+   LINKS INTERNOS
    ========================================= */
 
-:root[saved-theme="dark"] {
-  --link-color: #CC241D;
-  --link-hover: #FB4934;
-}
-
-:root[saved-theme="dark"] {
-  --link-color: #ce4028;
-  --link-hover: #c55c5c;
-}
-
-a.internal-link {
+/* Texto + marcatexto */
+a.internal-link,
+a.internal {
   color: var(--link-color) !important;
-  transition: color 150ms ease;
+  background-color: var(--link-bg) !important;
+
+  transition:
+    color 150ms ease,
+    background-color 150ms ease;
 }
 
-a.internal-link:hover {
+
+/* Hover */
+a.internal-link:hover,
+a.internal:hover {
   color: var(--link-hover) !important;
+  background-color: var(--link-bg-hover) !important;
 }
+
 
 /* =========================================
-   LINKS SIN NOTA
+   LINKS SIN NOTA / PÁGINAS INEXISTENTES
    ========================================= */
 
-a.internal-link.broken {
-  color: #928374 !important;
+a.internal-link.broken,
+a.internal.broken {
+  color: var(--link-broken) !important;
   opacity: 0.75;
 }
 
-a.internal-link.broken:hover {
-  color: #B8A894 !important;
+a.internal-link.broken:hover,
+a.internal.broken:hover {
+  color: var(--link-broken-hover) !important;
   opacity: 1;
 }
 
-/* Links normales */
-a.internal {
-  color: #262928;
-}
-
-a.internal:hover {
-  color: #8a4441;
-}
-
-/* Links a páginas que todavía no existen */
-a.internal.broken {
-  color: #8f8f8f;
-}
-
-/* Modo oscuro */
-:root[saved-theme="dark"] {
-  a.internal {
-    color: #f8edbf;
-  }
-
-  a.internal:hover {
-    color: #a84f4b;
-  }
-
-  a.internal.broken {
-    color: #666666;
-  }
-}
 
 /* =========================================
    Logo animado — Page Title
