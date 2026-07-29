@@ -1,5 +1,5 @@
 ---
-title: Un vistazo a los DMs
+title: ── Lo básico… y no tan básico ──
 ---
 ---
 
