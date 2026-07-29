@@ -553,24 +553,19 @@ a.internal.broken {
    ========================================= */
 
 .page-title a {
-  /* Ocultamos el texto */
   font-size: 0;
 
-  /* Tamaño del logo */
   width: 280px;
   height: 200px;
 
-  /* Logo modo claro */
-  background-image: url("../media/img/logo_c.png");
+  background-image: url("/DnD-DM/media/img/logo_c.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 
-  /* Evita que el espacio del texto interfiera */
   display: block;
 }
 
-/* Modo oscuro */
 :root[saved-theme="dark"] .page-title a {
-  background-image: url("../media/img/logo_o.png");
+  background-image: url("/DnD-DM/media/img/logo_o.png");
 }
