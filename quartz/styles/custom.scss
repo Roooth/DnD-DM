@@ -561,7 +561,7 @@ a.internal.broken {
   height: 200px;
 
   /* Logo modo claro */
-  background-image: url("/static/Logo_c.png");
+  background-image: url("/Media/Img/Logo_c.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -572,5 +572,5 @@ a.internal.broken {
 
 /* Modo oscuro */
 :root[saved-theme="dark"] .page-title a {
-  background-image: url("/static/Logo_o.png");
+  background-image: url("/Media/Img/Logo_o.png");
 }
