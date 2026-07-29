@@ -1,5 +1,5 @@
 ---
-title: ── Lo básico… y no tan básico ──
+title: Lo básico… y no tan básico
 ---
 ---
 
