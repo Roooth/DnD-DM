@@ -59,7 +59,7 @@ Crear la explosión más grande y vistosa que el mundo haya visto.
 ---
 ## Negocio
 
-- **Negocio:** Trabaja como [[Ingeniero]]
+- **Negocio:** Trabaja como nunca en el [[Taller de Ing. 2]]
 
 
 ---

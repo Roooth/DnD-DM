@@ -41,10 +41,12 @@ Se comporta de cierta manera...particular
 ---
 ## Relaciones
 
-| Personaje | Relación   | Contexto                                              |
-| --------- | ---------- | ----------------------------------------------------- |
-| [[Juan]]  | Secretario | es una persona por quien daria su vida para ayudarlo. |
-| [[Juan2]] | Secretario | es una persona por quien daria su vida para ayudarlo. |
+| Personaje     | Relación   | Contexto                                                   |
+| ------------- | ---------- | ---------------------------------------------------------- |
+| [[Juan]]      | Secretario | es una persona por quien daria su vida para ayudarlo.      |
+| [[Juan2]]     | Secretario | es una persona por quien daria su vida para ayudarlo.      |
+| [[Rey]]       | Padre      | es su papa                                                 |
+| Descendientes |            | quieren que se case con su prima para que obtenga poder(?) |
 
 
 ---

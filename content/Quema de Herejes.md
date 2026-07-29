@@ -1,0 +1,2 @@
+Surge desde años atras cuando los Pikmin no eran criaturas tan comunes y los humanos empezaban a interactuar con la poblacion, basados en sus percepciones herradas, debido a casos similares como las "cacerias de brujas" y una serie de malentendidos desafortunados los pikmin fueron
+Los Pikinm eran criaturas abundantes 

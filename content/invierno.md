@@ -1,0 +1,1 @@
+Es poco favorable vivir durante esta epoce del año, curiosamente en el [[Pueblo Inicial]] dura 6 meses

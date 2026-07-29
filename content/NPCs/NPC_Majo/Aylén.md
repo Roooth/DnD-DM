@@ -54,7 +54,7 @@ Crear la herramienta definitiva, un robot que ayude en todas las tareas posibles
 ---
 ## Negocio
 
-- Trabaja como buen [[Ingeniero]]
+- Trabaja como nunca en el [[Taller de Ing. 1]]
 
 ---
 ## Misiones 

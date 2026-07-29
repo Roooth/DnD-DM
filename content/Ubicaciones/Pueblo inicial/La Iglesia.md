@@ -1,0 +1,1 @@
+La iglesia de [[Pueblo Inicial]] toma como religión inicial el [[Mikuismo]] mientras que otros toman la religion del [[PikminSupreme™]] 

@@ -17,19 +17,8 @@ title: Bienvenido a DnD 4 DM
 Información sobre los acontecimientos que dieron forma al mundo.
 
 - Lore (N/A)
-- [[Leyenda de Los Guardianes]]]
+- [[Leyenda de Los Guardianes]]
 - [[Eventos Importantes]]
-
----
-
-# Lugares
-
-Regiones, ciudades, pueblos y sitios importantes.
-
-- [[Pueblo Inicial]]
-- [[Regiones del Mundo]]
-- [[Mapa del Mundo]]
-- [[Lugares Importantes]]
 
 ---
 
@@ -103,18 +92,6 @@ Elementos importantes encontrados durante la aventura.
 - [[Economía]]
 - [[Precios]]
 
----
-
-# Información del DM
-
-Contenido exclusivo para la preparación de la campaña.
-
-> [!warning]
-> Esta sección contiene información que los jugadores no conocen.
-
-- [[Notas del DM]]
-- [[Secretos del Mundo]]
-- [[Ideas Futuras]]
 
 ---
 
@@ -123,4 +100,12 @@ Contenido exclusivo para la preparación de la campaña.
 La mayoría de páginas están conectadas mediante enlaces `[[ ]]`.
 
 Puedes explorar la campaña siguiendo las relaciones entre:
+
+
+---
+##### Links del desarrollo (temp)
+[[https://canva.link/oz6be77wbvkz7za|Personajes del Pueblo Canva]]
+[[https://canva.link/y8ela4u0daxrg2h|Campaña ideas generales Canva]]
+[[https://canva.link/g4uh8h7vxol3c8z|Sección Amarilla]]
+
 

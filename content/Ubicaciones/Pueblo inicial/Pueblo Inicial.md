@@ -33,6 +33,11 @@ Con el paso del tiempo, más Pikmin llegaron al lugar y comenzaron a formar una 
 Algunos creen que su llegada está relacionada con la antigua [[Leyenda de Los Guardianes]], aunque actualmente pocos conocen la conexión entre ambas historias.
 
 ---
+## Tradiciones y costumbres
+La [[Quema de Herejes]] es una costumbre que ocurre una vez cada año donde un Pikmin es seleccionado como "Hereje" y se le prende fuego, se ha decidido que siempre será uno entre los Pikmin Rojos
+Cada 31 de agosto se celebra el [[Festival Musical]] se rumorea que una gran deidad se unió al panteón de los dioses, durante esta festividad se conmemora el supuesto sacrificio de sus preciados apóstoles por el bien de las criaturas, se comparte [[La Leyenda de Los Guardianes]] como una historia y diferentes renderizaciones musicales de esta leyenda en forma musical
+
+---
 
 ## Crecimiento del pueblo
 
@@ -61,7 +66,7 @@ El gobierno se encarga de coordinar los asuntos importantes del pueblo, desde el
 
 Se encuentra en una región montañosa cubierta por extensos bosques.
 
-La naturaleza tiene una presencia importante en la vida diaria del pueblo, tanto por su historia como por sus habitantes originales.
+La naturaleza tiene una presencia importante en la vida diaria del pueblo, tanto por su historia como por sus habitantes originales, [[El clima]] 
 
 Cerca de la comunidad existe una antigua [[Mina cercana]] fuente importante de recursos y lugar de trabajo para varios habitantes.
 
@@ -92,6 +97,8 @@ Cerca de la comunidad existe una antigua [[Mina cercana]] fuente importante de r
 - [[Los cultivos]]
 - [[Luminoma]]
 - [[Pan Gusto]]
+- [[Taller de Ing. 1]]
+- [[Taller de Ing. 2]]
 - [[Sastrería]]
 - [[taberna sin nombre]]
 - [[Tienda de pescado]]
