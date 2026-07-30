@@ -1,0 +1,7 @@
+views:
+  - type: leaflet-map
+    name: View
+    image: Media/map_temp_P-I.png
+    height: 660
+    mapName: Pueblito Incial
+    maxZoom: 2

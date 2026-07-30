@@ -70,21 +70,20 @@ La naturaleza tiene una presencia importante en la vida diaria del pueblo, tanto
 
 Cerca de la comunidad existe una antigua [[Mina cercana]] fuente importante de recursos y lugar de trabajo para varios habitantes.
 
-```leaflet
-id: leaflet-map
-image: [[map_temp_P-I.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 5
-defaultZoom: 4
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: false
+```base
+views:
+  - type: leaflet-map
+    name: Map
+    mapName: test
+    image: Media/map_temp_P-I.png
+    height: 400
+    minZoom: 0
+    maxZoom: 2
+    defaultZoom: 0
+    zoomDelta: 0.25
+    scale: "0.2"
+    unit: km
 ```
-
 
 ---
 
