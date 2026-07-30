@@ -10,12 +10,12 @@
 > - **Profesión:** [[Miembro del hospital]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia
 
-![[Token_Dolores.png]]
+![[Media/TokenNPCs/Token_Dolores.png]]
 **Descripción física**
 
 >Enana de baja estatura y complexión robusta. Tiene el cabello completamente canoso recogido en un moño sencillo, ojos cafés y varias pecas.

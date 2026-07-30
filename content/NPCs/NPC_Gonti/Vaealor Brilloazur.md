@@ -10,7 +10,7 @@
 > - **Profesión:** [[Guardia]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

@@ -10,7 +10,7 @@
 > - **Profesión:** [[Carcelero]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

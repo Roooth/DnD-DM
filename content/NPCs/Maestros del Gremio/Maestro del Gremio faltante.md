@@ -10,7 +10,7 @@
 > - **Profesión:** 
 > - **Ubicación:** 
 > - **DM Responsable:** 
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

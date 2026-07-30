@@ -10,7 +10,7 @@
 > - **Profesión:** [[Miembro del hospital]] Doctor diagnostico
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

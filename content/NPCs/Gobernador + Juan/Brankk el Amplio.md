@@ -10,7 +10,7 @@
 > - **Profesión:** [[Gobernador]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** Todos los DM 
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

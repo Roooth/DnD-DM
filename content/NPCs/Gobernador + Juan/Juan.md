@@ -10,7 +10,7 @@
 > - **Profesión:** [[Secretario]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** 
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

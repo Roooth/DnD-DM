@@ -10,7 +10,7 @@
 > - **Profesión:** [[Bibliotecario | Bibliotecaria]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

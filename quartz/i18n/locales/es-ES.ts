@@ -66,9 +66,9 @@ export default {
       lastFewNotes: ({ count }) => `Últimas ${count} notas`,
     },
     error: {
-      title: "No se ha encontrado.",
-      notFound: "Esta página es privada o no existe.",
-      home: "Regresa a la página principal",
+      title: "¡Oh no! No encontramos la página :(",
+      notFound:"¡Oh no! Parece que esta página sacó un 20 natural en Sigilo",
+      home: "¡Al menos lo básico sí está!",
     },
     folderContent: {
       folder: "Carpeta",

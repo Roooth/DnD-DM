@@ -24,7 +24,7 @@ Información sobre los acontecimientos que dieron forma al mundo.
 
 Personajes que forman parte de la historia.
 
-- [[NPC]]
+- [[NPCs]]
 - Jugadores
 
 > Usa la gráfica de nodos para explorar las conexiones entre personajes, lugares y eventos.

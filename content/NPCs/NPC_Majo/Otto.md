@@ -10,7 +10,7 @@
 > - **Profesión:** [[Jefe Criminal 1]]
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia

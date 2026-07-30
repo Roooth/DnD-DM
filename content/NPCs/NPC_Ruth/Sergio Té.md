@@ -10,12 +10,12 @@
 > - **Profesión:** [[Guardia]] de turno nocturno
 > - **Ubicación:** [[Pueblo Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
-> - **Tipo:** [[NPC]]
+> - **Tipo:** [[NPCs]]
 
 ---
 ## Apariencia
 
-![[Token_Sergio.png]]
+![[Media/TokenNPCs/Token_Sergio.png]]
 
 **Descripción física**
 
