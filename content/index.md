@@ -14,7 +14,7 @@ title: Lo básico… y no tan básico
 
 Información sobre los acontecimientos que dieron forma al mundo.
 
-- Lore (N/A)
+- [[Los Jardines Flotantes del Rey]]
 - [[Leyenda de Los Guardianes]]
 - [[Eventos Importantes]]
 
@@ -36,9 +36,7 @@ Personajes que forman parte de la historia.
 Gobiernos, organizaciones y estructuras sociales.
 
 - [[El gobierno]]
-- [[Tipos de Gobierno]]
 - [[Gremios]]
-- [[Facciones]]
 
 ---
 
@@ -72,7 +70,7 @@ Habitantes y seres que forman parte del mundo.
 | [[Humano]]     |        20         |
 | [[Mediano]]    |         2         |
 | [[Minotauro]]  |         1         |
-| [[Orca]]       |         1         |
+| [[Orco]]       |         1         |
 | [[Perro]]      |         6         |
 | [[Pikmin]]     |        11         |
 | [[Relicborn]]  |         1         |

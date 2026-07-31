@@ -15,7 +15,7 @@
 ---
 ## Apariencia
 
-
+![[Memo.png]]
 
 **Descripción física**
 

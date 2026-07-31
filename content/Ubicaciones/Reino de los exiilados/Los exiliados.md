@@ -1,0 +1,1 @@
+Cercanos fisicamente a los elfos (relativamente)

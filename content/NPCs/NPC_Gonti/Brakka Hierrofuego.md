@@ -5,7 +5,7 @@
 > [!todo]
 > ## Información General
 > 
-> - **Raza:** [[Orca]]
+> - **Raza:** [[Orco]]
 > - **Edad:** 43 años
 > - **Profesión:** [[Herrero | Herrera]]
 > - **Ubicación:** [[Pueblo Inicial]]

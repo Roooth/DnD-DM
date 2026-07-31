@@ -1,4 +1,3 @@
-# Día de los Espíritus
 
 > Hace muchos años, cuando el pueblo apenas comenzaba a tomar forma, humanos y pikmin trabajaban juntos para construir un hogar en aquellas tierras, la supervivencia era una batalla constante. Cada año, tras una temporada de abundancia, llegaba un invierno de seis largos meses. Los campos quedaban sepultados bajo la nieve, las reservas se agotaban y el hambre comenzaba a extenderse entre los habitantes. La escasez provocaba discusiones, robos y acusaciones. Vecinos que alguna vez habían colaborado terminaban enfrentados por los pocos alimentos disponibles. A pesar de todos sus esfuerzos, el pueblo apenas lograba sobrevivir de un año a otro.
 
