@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:**  12 años
 > - **Profesión:** [[Guardia]] de turno nocturno
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

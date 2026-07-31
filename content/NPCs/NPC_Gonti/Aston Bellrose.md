@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 23 años
 > - **Profesión:** [[Maid]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

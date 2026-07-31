@@ -8,7 +8,7 @@
 > - **Raza:** [[Enano]]
 > - **Edad:** 260 años
 > - **Profesión:** [[Herrero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

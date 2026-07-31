@@ -6,8 +6,8 @@
 > ## Información General
 >
 > - **Tipo:** Leyenda histórica
-> - **Época:** Antes de la fundación de [[Pueblo Inicial]]
-> - **Ubicación:** [[Pueblo Inicial]] antiguo
+> - **Época:** Antes de la fundación de [[Ciudad Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]] antiguo
 > - **Estado:** Parcialmente olvidada
 
 ---
@@ -16,7 +16,7 @@
 
 > *"Antes de que existiera el pueblo, antes de que los primeros caminos fueran trazados y antes de que los nombres de sus habitantes fueran escritos, el bosque ya tenía protectores."*
 
-Mucho antes de la fundación de [[Pueblo Inicial]], en las profundidades de un antiguo bosque existía una pequeña comunidad de [[Espíritus de la Naturaleza]]. 
+Mucho antes de la fundación de [[Ciudad Inicial]], en las profundidades de un antiguo bosque existía una pequeña comunidad de [[Espíritus de la Naturaleza]]. 
 
 Durante generaciones, estos espíritus vivieron alejados del mundo exterior, desarrollando sus propias costumbres y una forma sencilla de organización guiada por los ciclos del bosque.
 
@@ -109,7 +109,7 @@ Sus nombres desaparecieron lentamente.
 > [!warning]
 > ## La historia olvidada
 >
-> La mayoría de habitantes de [[Pueblo Inicial]] desconoce que los árboles antiguos fueron alguna vez seres conscientes.
+> La mayoría de habitantes de [[Ciudad Inicial]] desconoce que los árboles antiguos fueron alguna vez seres conscientes.
 >
 > También se ha perdido el recuerdo de los aventureros que ayudaron a los primeros Guardianes.
 
@@ -127,7 +127,7 @@ Aquella criatura sería una de las primeras señales del nacimiento de una nueva
 
 Con el paso del tiempo, nuevos habitantes llegaron y construyeron un pueblo alrededor de aquel lugar.
 
-Así se fundo [[Pueblo Inicial]]
+Así se fundo [[Ciudad Inicial]]
 
 Sin saberlo, sus habitantes construyeron sus hogares sobre las raíces de aquellos que habían protegido esa tierra siglos atrás.
 

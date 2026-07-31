@@ -8,7 +8,7 @@
 > - **Raza:** [[Aarakokra]]
 > - **Edad:** 18 años
 > - **Profesión:** [[Periodista]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:** 16 años
 > - **Profesión:**  [[Tabernero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Tiefling]]
 > - **Edad:** 24 años
 > - **Profesión:** [[Alquimista]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

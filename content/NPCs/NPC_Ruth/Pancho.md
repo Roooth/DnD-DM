@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 52 años
 > - **Profesión:** [[Panadero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

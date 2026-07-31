@@ -1,0 +1,1 @@
+El [[Jefe del Gremio Minero]] se encarga de una gran labor al manejar en su totalidad la administración y desarrollo de la [[Mina cercana]] a [[Ciudad Inicial]]

@@ -8,7 +8,7 @@
 > - **Raza:**  [[Semielfos]]
 > - **Edad:** 28 años
 > - **Profesión:** [[Guardabosques | Teniente de los Guardabosques]] 
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

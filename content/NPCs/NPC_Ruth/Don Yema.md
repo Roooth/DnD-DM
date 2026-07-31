@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 34 años
 > - **Profesión:** [[Noble]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

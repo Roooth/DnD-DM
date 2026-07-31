@@ -8,7 +8,7 @@
 > - **Raza:**  [[Golem]] de piedra
 > - **Edad:** +500 años
 > - **Profesión:** [[Cantero]] encargado del transporte
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

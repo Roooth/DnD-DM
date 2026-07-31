@@ -8,7 +8,7 @@
 > - **Raza:** Desconocido
 > - **Edad:** ??? años
 > - **Profesión:** [[Encantador]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Enano]]
 > - **Edad:** 295 años
 > - **Profesión:** [[Jefe del Gremio Minero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

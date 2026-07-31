@@ -8,7 +8,7 @@
 > - **Raza:** [[Sátiro]]
 > - **Edad:** 28 años
 > - **Profesión:** [[Cortesano|Cortesana]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 32 años
 > - **Profesión:** [[Leñador]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

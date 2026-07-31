@@ -8,7 +8,7 @@
 > - **Raza:** [[Tiefling]]
 > - **Edad:** 22 años
 > - **Profesión:** [[Miembro del hospital]] encargada de la ambulancia
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

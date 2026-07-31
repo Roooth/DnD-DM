@@ -8,7 +8,7 @@
 > - **Raza:** [[Elfo]]
 > - **Edad:** ??? años
 > - **Profesión:** [[Gobernador]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** Todos los DM 
 > - **Tipo:** [[NPCs]]
 

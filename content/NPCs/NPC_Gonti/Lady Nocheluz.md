@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 38 años
 > - **Profesión:** [[Astrólogo]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

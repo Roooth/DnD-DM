@@ -8,7 +8,7 @@
 > - **Raza:** [[Enano]]
 > - **Edad:** 120 años
 > - **Profesión:** [[Carpintero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

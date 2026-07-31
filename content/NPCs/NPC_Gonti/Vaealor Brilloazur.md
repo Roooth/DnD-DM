@@ -8,7 +8,7 @@
 > - **Raza:** [[Dragonborn]]
 > - **Edad:** 24 años
 > - **Profesión:** [[Guardia]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

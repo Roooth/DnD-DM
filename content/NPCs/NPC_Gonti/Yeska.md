@@ -8,7 +8,7 @@
 > - **Raza:** [[Semielfos]]
 > - **Edad:** 35 años
 > - **Profesión:** [[Guardabosques]] / [[Cazarecompenzas]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

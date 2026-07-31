@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:** 20 años
 > - **Profesión:** [[Encargado del Gremio]] Archivista
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 16 años
 > - **Profesión:** [[Encargado del Gremio]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

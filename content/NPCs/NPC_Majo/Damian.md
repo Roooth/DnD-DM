@@ -8,7 +8,7 @@
 > - **Raza:** [[Mediano]]
 > - **Edad:** 23 años
 > - **Profesión:** [[Mayordomo]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 26 años
 > - **Profesión:** 
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

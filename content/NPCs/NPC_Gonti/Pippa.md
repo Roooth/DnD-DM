@@ -8,7 +8,7 @@
 > - **Raza:** [[Goblin]]
 > - **Edad:** 31 años
 > - **Profesión:** [[Herbolaria]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

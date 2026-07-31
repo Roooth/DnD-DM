@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:** ??? años
 > - **Profesión:** [[Adivino]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

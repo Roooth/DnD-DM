@@ -8,7 +8,7 @@
 > - **Raza:** [[Relicborn]]
 > - **Edad:** 40 años
 > - **Profesión:** [[Encargado del Gremio]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 26 años
 > - **Profesión:** [[Secretario]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** 
 > - **Tipo:** [[NPCs]]
 

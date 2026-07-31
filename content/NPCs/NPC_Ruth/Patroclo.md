@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:** 14 años
 > - **Profesión:** [[Limpiador]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

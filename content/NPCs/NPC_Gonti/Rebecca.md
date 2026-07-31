@@ -8,7 +8,7 @@
 > - **Raza:** [[Mediano]]
 > - **Edad:** 16 años
 > - **Profesión:** [[Miembro de la iglesia]] Aprendiz
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

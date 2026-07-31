@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 55 años
 > - **Profesión:** [[Sastre]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

@@ -3,7 +3,7 @@
 
 ## Fanny
 
-Entre sus habitantes vivía una agricultora llamada **Fanny**, una mujer conocida por su dedicación, su bondad y su profundo amor por la comunidad. Durante años trabajó la tierra sin descanso, pero ninguna cosecha parecía suficiente para proteger al pueblo de los duros inviernos.
+Entre sus habitantes vivía una agricultora llamada **[[Fanny]]**, una mujer conocida por su dedicación, su bondad y su profundo amor por la comunidad. Durante años trabajó la tierra sin descanso, pero ninguna cosecha parecía suficiente para proteger al pueblo de los duros inviernos.
 
 Negándose a abandonar su hogar y desesperada por encontrar una solución, Fanny decidió buscar ayuda donde nadie más se había atrevido: **los antiguos espíritus de la tierra**. Como ofrenda, entregó toda su primera cosecha y pasó días y noches enteras rezando entre los campos vacíos. Finalmente, escuchó sus voces susurrando entre el viento. Los espíritus aceptaron escucharla, pero exigieron un precio.
 

@@ -8,7 +8,7 @@
 > - **Raza:** [[Minotauro]]
 > - **Edad:** 48 años
 > - **Profesión:** [[Carcelero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

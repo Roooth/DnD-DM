@@ -1,0 +1,1 @@
+Es una comunidad de personas marginadas, han sido desplazados por la fuerza y se mantienen en conflicto con el imperio, de todos los reinos del continene tienen la poblacion mas diversa pero los niveles de [[Crimen™]] mas altos

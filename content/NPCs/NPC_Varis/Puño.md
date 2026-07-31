@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 25 años
 > - **Profesión:** [[Cantero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

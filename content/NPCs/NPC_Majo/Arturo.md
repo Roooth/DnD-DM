@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 34 años
 > - **Profesión:** [[Guardia | Jefe de guardias]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

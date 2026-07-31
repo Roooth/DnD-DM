@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 75 años
 > - **Profesión:** [[Granjero |Granjera]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

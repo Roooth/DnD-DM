@@ -36,6 +36,9 @@ Algunos creen que su llegada está relacionada con la antigua [[Leyenda de Los G
 ## Tradiciones y costumbres
 La [[Quema de Herejes]] es una costumbre que ocurre una vez cada año donde un Pikmin es seleccionado como "Hereje" y se le prende fuego, se ha decidido que siempre será uno entre los Pikmin Rojos
 Cada 31 de agosto se celebra el [[Festival Musical]] se rumorea que una gran deidad se unió al panteón de los dioses, durante esta festividad se conmemora el supuesto sacrificio de sus preciados apóstoles por el bien de las criaturas, se comparte [[La Leyenda de Los Guardianes]] como una historia y diferentes renderizaciones musicales de esta leyenda en forma musical
+Es fácil recordar cuando ocurrirán las festividades debido a que usan un calendario de 12 meses con 28 días cada mes
+
+(calendario de festejos.json)
 
 ---
 

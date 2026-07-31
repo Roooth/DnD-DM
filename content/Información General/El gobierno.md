@@ -1,4 +1,4 @@
-Esta provincia soberana tiene un Gobernador [[Brankk el Amplio]] quien fue asignado legítimamente a la ligera por un [[Rey]] y aprobado bajo [[El consejo]] , el [[Pueblo Inicial]] oficialmente se presentan como parte de los territorios del Reino con un gobierno de monarquía
+Esta provincia soberana tiene un Gobernador [[Brankk el Amplio]] quien fue asignado legítimamente a la ligera por un [[Rey]] y aprobado bajo [[El consejo]] , el [[Ciudad Inicial]] oficialmente se presentan como parte de los territorios del Reino con un gobierno de monarquía
 Brankk es de "sangre noble" en un rango de autoridad donde 10 es rey y 1 caballero, es un solido 4, posee sangre real pero no es tomado en serio debido a su debilitante alcoholismo, es una figura política retirada de poder real, su gobierno es "aceptado" por la población debido a la supervisión de los encargados, aprovechan la protección del rey sin llamar su atención
 El poder del reino se encuentra concentrado en un 40% con el Rey y el resto dividido en las diferentes facciones de [[El consejo]] 
 Los nobles del consejo tienen una predisposición a la corrupción

@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 35 años
 > - **Profesión:** Vendedor de pescado
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

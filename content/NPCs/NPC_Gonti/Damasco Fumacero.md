@@ -8,7 +8,7 @@
 > - **Raza:** [[Hobgolblin]]
 > - **Edad:** 27 años
 > - **Profesión:** [[Ingeniero]] especializado en explosiones
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

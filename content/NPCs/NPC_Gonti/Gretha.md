@@ -8,7 +8,7 @@
 > - **Raza:** [[Enano]]
 > - **Edad:** 86 años
 > - **Profesión:** [[Tabernero]] y cocinera
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

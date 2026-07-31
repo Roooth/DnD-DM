@@ -8,7 +8,7 @@
 > - **Raza:** [[Pikmin]]
 > - **Edad:** 38 años
 > - **Profesión:** [[Miembro del hospital]] Doctor diagnostico
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

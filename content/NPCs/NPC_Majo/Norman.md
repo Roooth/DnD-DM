@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 22 años
 > - **Profesión:** [[Sepulturero]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

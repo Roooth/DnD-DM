@@ -8,7 +8,7 @@
 > - **Raza:** [[Enano]]
 > - **Edad:** 76 años
 > - **Profesión:** [[Miembro del hospital]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_4 (Ruth)]]
 > - **Tipo:** [[NPCs]]
 

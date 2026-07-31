@@ -8,7 +8,7 @@
 > - **Raza:**  [[Hexblood]]
 > - **Edad:** 41 años
 > - **Profesión:** [[Noble]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

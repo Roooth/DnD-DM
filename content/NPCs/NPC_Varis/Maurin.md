@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 14 años
 > - **Profesión:** [[Miembro de la iglesia]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

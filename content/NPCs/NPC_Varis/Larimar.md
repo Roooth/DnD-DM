@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 21 años
 > - **Profesión:** [[Minero]] (es una novata)
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

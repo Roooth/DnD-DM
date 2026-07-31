@@ -1,3 +1,5 @@
+[inserte calendario xd]
+
 Hasta el momento tenemos unas cuantas festividades y eventos planeados entre ellos están:
 - [ ] [[Día del Dandori]]
 - [ ] [[El Cometa del Despertar| Llegada del cometa del despertar]]

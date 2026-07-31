@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 20 años
 > - **Profesión:** [[Chef]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

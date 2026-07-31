@@ -1,0 +1,1 @@
+Buscan lo mejor de lo mejor para expandir su regimen militar y controlar "posiblemente" el continente mediante tacticas politicas y militares, comandaron a sus tropas a conquistar territorio

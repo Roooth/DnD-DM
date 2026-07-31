@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano|Humana]]
 > - **Edad:** 33 años
 > - **Profesión:** Sublíder [[Criminal]] 
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

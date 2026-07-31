@@ -8,7 +8,7 @@
 > - **Raza:** [[Humano]]
 > - **Edad:** 16 años
 > - **Profesión:** [[Jefe Criminal 2]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

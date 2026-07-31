@@ -8,7 +8,7 @@
 > - **Raza:** [[Arácnida]]
 > - **Edad:** 45 años
 > - **Profesión:** [[Criadora]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_1 (Varis)]]
 > - **Tipo:** [[NPCs]]
 

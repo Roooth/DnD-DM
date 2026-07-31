@@ -8,7 +8,7 @@
 > - **Raza:** [[Gnomo]]
 > - **Edad:** 196 años
 > - **Profesión:** [[Profesor]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

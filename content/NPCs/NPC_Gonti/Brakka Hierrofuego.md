@@ -8,7 +8,7 @@
 > - **Raza:** [[Orco]]
 > - **Edad:** 43 años
 > - **Profesión:** [[Herrero | Herrera]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_3 (Gonti)]]
 > - **Tipo:** [[NPCs]]
 

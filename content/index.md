@@ -93,9 +93,7 @@ Elementos importantes encontrados durante la aventura.
 
 # Navegación
 
-La mayoría de páginas están conectadas mediante enlaces `[[ ]]`.
-
-Puedes explorar la campaña siguiendo las relaciones entre:
+Iniciamos en [[Ciudad Inicial]] 
 
 
 ---

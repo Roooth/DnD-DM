@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 21 años
 > - **Profesión:** [[Mercader]]
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 

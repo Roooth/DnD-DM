@@ -8,7 +8,7 @@
 > - **Raza:** [[Perro]]
 > - **Edad:** 16 años
 > - **Profesión:** - 
-> - **Ubicación:** [[Pueblo Inicial]]
+> - **Ubicación:** [[Ciudad Inicial]]
 > - **DM Responsable:** [[DM_2 (Majo)]]
 > - **Tipo:** [[NPCs]]
 
@@ -41,7 +41,7 @@ Era una niña muy agradable y confiaba en el mundo, nadie sabe como ha cambiado.
 
 | Personaje          | Relación     | Contexto                                    |
 | ------------------ | ------------ | ------------------------------------------- |
-| [[Pueblo Inicial]] | Desconocidos | han pasado tantos años que no los recuerda. |
+| [[Ciudad Inicial]] | Desconocidos | han pasado tantos años que no los recuerda. |
 
 ---
 ## Objetivo Personal
