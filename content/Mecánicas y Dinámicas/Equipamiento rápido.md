@@ -1,0 +1,2 @@
+Los jugadores pueden tener 2 espacios para tener una arma o equipo a la mano y no utilizar una acción para equiparla, cualquier equipo u objeto que busquen utilizar se contara como acción
+ej. Un jugador puede tener 1 espada en su equipamiento rápido y no usar una acción para equiparla desde su mochila
